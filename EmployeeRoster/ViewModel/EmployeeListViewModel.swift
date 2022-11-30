@@ -19,6 +19,7 @@ protocol EmployeeListDataSource {
 }
 
 final class EmployeeListViewModel: EmployeeListDataSource {
+    
     // input
     private let repository: EmployeeListRepositoryHandling
 
