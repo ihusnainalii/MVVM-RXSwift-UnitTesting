@@ -14,6 +14,7 @@ protocol EmployeeListRepositoryHandling: AnyObject {
 }
 
 final class EmployeeListRepository: EmployeeListRepositoryHandling {
+    
     private let getEmployeeHandler: EmployeeNetworkHandling
     private let realmManager: RealmManagerDataSource
     private let disposeBag = DisposeBag()

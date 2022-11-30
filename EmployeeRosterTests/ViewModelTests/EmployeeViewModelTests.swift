@@ -17,7 +17,9 @@ import RxTest
 import XCTest
 
 class EmployeeViewModelTests: QuickSpec {
+    
     override func spec() {
+        
         var testViewModel: EmployeeListViewModel!
         var mockRepository: MockEmployeeListRepositoryHandling!
 

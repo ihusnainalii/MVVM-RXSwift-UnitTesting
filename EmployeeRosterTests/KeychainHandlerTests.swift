@@ -18,7 +18,7 @@ import XCTest
 
 class KeychainHandlerTests: QuickSpec {
     override func spec() {
-        let mockKey = "mock.nischal.keychain.key"
+        let mockKey = "mock.husnain.keychain.key"
 
         describe("KeychainHandler") {
             var testModel: KeychainHandler!
