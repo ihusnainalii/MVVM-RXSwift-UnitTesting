@@ -1,0 +1,26 @@
+{
+    "tenant": "Husnain",
+    "scheduled_today": {
+        "name": "Charlotte",
+        "from_date": "2020-08-31",
+        "to_date": "2020-09-06"
+    },
+    "roster": [{
+        "name": "Charlotte",
+        "from_date": "2020-08-31",
+        "to_date": "2020-09-06"
+    }, {
+        "name": "Ava",
+        "from_date": "2020-09-07",
+        "to_date": "2020-09-13"
+    }, {
+        "name": "Mia",
+        "from_date": "2020-09-14",
+        "to_date": "2020-09-20"
+    }, {
+        "name": "Harper",
+        "from_date": "2020-09-21",
+        "to_date": "2020-09-27"
+    }],
+    "motd": "Have a great day!"
+}
